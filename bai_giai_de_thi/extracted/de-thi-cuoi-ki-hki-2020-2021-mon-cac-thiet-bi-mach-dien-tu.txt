@@ -1,0 +1,171 @@
+                                                 lOMoARcPSD|49145529
+
+
+
+
+                đề thi CK -2020-2021-updated-đề 1
+
+
+Các thiết bị và mạch điện tử (Trường Đại học Công nghệ thông tin, Đại học Quốc gia
+                              Thành phố Hồ Chí Minh)
+
+
+
+
+                                  messages.pdf_cover_qr_code_label
+
+
+
+
+                        messages.studocu_not_sponsored_or_endorsed_by_college
+                                      messages.downloaded_by
+                                                        lOMoARcPSD|49145529
+
+
+
+
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN  KÌ THI CUỐI KÌ HKI (Năm học 2020 – 2021)
+          KHOA KỸ THUẬT MÁY TÍNH      Môn: Các Thiết Bị Mạch Điện Tử
+                                      Thời gian: 75 phút
+                                      Không sử dụng tài liệu
+  Họ và tên sinh viên:…………………………………..                      ĐIỂM
+  MSSV:………………………………………………..
+  STT:………………………………………………….
+
+PHẦN I: TRẮC NGHIỆM (chỉ chọn 1 đáp án, 6 điểm)
+
+Câu 1: Đối với mạch đa hài sử dụng hai transistor Q1 và Q2 thì nguyên tắc hoạt động của mạch là
+
+a. Q1 off thì Q2 dẫn bão hòa và ngược lại
+b. Q1 off thì Q2 dẫn tuyến tính và ngược lại
+c. Q1 dẫn bão hòa và Q2 dẫn bão hòa
+d. Q1 dẫn tuyến tính và Q2 dẫn tuyến tính
+
+Câu 2: Để tăng độ dốc (roll-off) của mạch lọc thì
+
+a. Tăng bậc của mạch lọc hoặc mắc nhiều mạch lọc song song
+b. Thay đổi giá trị của R và C
+c. Tăng bậc của mạch lọc và mắc nhiều mạch lọc nối tiếp
+d. Điều chỉnh giá trị của điện trở hồi tiếp
+
+Câu 3: Xét mạch lọc thông dải như hình thì giá trị của bandwidth (BW) là
+
+
+
+
+a. BW = fc2 + fc1
+b. BW =√ fc 2 × fc 1
+c. BW = fc2 – fc1
+d. BW =√ fc 2/ fc1
+
+Câu 4: Sinh viên xác định mạch dưới đây là
+
+
+
+
+                                               messages.downloaded_by
+                                                      lOMoARcPSD|49145529
+
+
+
+
+a. Mạch ADC 4 bit
+b. Mạch DAC 4 bit
+c. Mạch khuếch đại không đảo sử dụng OPAMP
+d. Tất cả đều sai
+
+Câu 5: Lý do sử dụng mạch hồi tiếp âm là
+
+a. Để làm mạch dao động
+b. Để mạch hoạt động ở trạng thái tuyến tính
+c. Tất cả đều sai
+d. Tất cả đều đúng
+
+Câu 6: Cho đồ thị của mạch lọc như hình
+
+
+
+
+a. Đây là mạch lọc bậc 1 (bậc nhất) với hệ số khuếch đại là A CL = (R1/R2) -1
+b. Đây là mạch lọc bậc thông thấp (hạ thông) bậc 1 với hệ số dốc (roll-off) là -20dB/dec.
+c. Đây là mạch lọc thông cao (thượng thông) với giá trị R, C được nối với ngõ vào V - của OPAMP
+d. Đây là mạch lọc thông cao (thượng thông) bậc 1 với với hệ số dốc (roll-off) là -20dB/dec
+
+Câu 7: Sinh viên xác định mạch dưới đây là
+
+
+
+
+                                             messages.downloaded_by
+                                                     lOMoARcPSD|49145529
+
+
+
+
+a. Mạch tích cực thông cao bậc 2 với hệ độ dốc (roll-off) là -20dB/dec
+b. Mạch tích cực thông cao bậc 1 với hệ độ dốc (roll-off) là -20dB/dec
+c. Mạch tích cực thông thấp bậc 2 với hệ độ dốc (roll-off) là -40dB/dec
+d. Mạch tích cực thông cao bậc 2 với hệ độ dốc (roll-off) là -40dB/dec
+
+Câu 8: Thuật ngữ “pole” trong mạch lọc thể hiện
+
+a. Độ lợi của OPAMP
+b. Số lượng cặp linh kiện RC
+c. Độ chênh lệch bandwidth (BW) khi ghép các mạch lọc song song
+d. Độ dốc của mạch lọc
+
+Kết quả điền vào ô sau đây:
+
+   Câu 1        Câu 2         Câu 3       Câu 4                            Câu 5   Câu 6   Câu 7   Câu8
+
+II. TỰ LUẬN (4 điểm)
+
+ Bài 1: Cho mạch khuếch đại OPAMP với
+ Vin = 0,5 sinωt (V)
+    a. Tính độ lợi AV của mỗi OPAMP và của toàn
+ mạch.
+    b. Viết phương trình điện áp tại Vo1 và Vo2.
+ Từ đó, vẽ dạng sóng của Vo1 và Vo2.
+
+
+
+
+                                            messages.downloaded_by
+         lOMoARcPSD|49145529
+
+
+
+
+messages.downloaded_by
+                                                       lOMoARcPSD|49145529
+
+
+
+
+Bài 2: Cho mạch khuếch đại dung D-MOSFET như hình bên
+Với thông số sau: R1 = 110 MΩ, R2 = 10 MΩ, VDD = 18V,
+RD = 1.8 kΩ, RS = 750 Ω, IDSS = 6 mA, VGSoff = - 3V, rds = 20 kΩ
+    a. Tính trị số điểm tĩnh Q
+    b. Vẽ mạch tương đương.
+    c. Tính độ lợi AV và điện thế ngõ ra V0 biết Vi =20mV
+    d. Nếu mắc thêm tải RL = 2,7 kΩ tại ngõ ra thì tổng
+trở ngõ ra là bao nhiêu?
+
+
+
+
+                                              messages.downloaded_by
+             lOMoARcPSD|49145529
+
+
+
+
+------------HẾT-----------
+
+                                   Duyệt đề
+
+
+
+
+    messages.downloaded_by
+

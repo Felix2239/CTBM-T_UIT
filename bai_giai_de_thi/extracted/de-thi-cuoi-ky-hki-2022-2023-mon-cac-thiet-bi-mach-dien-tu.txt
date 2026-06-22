@@ -1,0 +1,245 @@
+                                                 lOMoARcPSD|49145529
+
+
+
+
+                   đề thi CK -2022-2023 HKI huytl
+
+
+Các thiết bị và mạch điện tử (Trường Đại học Công nghệ thông tin, Đại học Quốc gia
+                              Thành phố Hồ Chí Minh)
+
+
+
+
+                                  messages.pdf_cover_qr_code_label
+
+
+
+
+                        messages.studocu_not_sponsored_or_endorsed_by_college
+                                      messages.downloaded_by
+                                                      lOMoARcPSD|49145529
+
+
+
+
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                        KÌ THI CUỐI KÌ HKI (Năm học 2022 – 2023)
+          KHOA KỸ THUẬT MÁY TÍNH                                            Môn: Các Thiết Bị Mạch Điện Tử
+                                                                            Thời gian: 85 phút
+  Đề 1
+                                                                            Không sử dụng tài liệu
+  Họ và tên sinh viên:…………………………………..                                                         ĐIỂM
+  MSSV:………………………………………………..
+  STT:………………………………………………….
+
+PHẦN I: TRẮC NGHIỆM (chỉ chọn 1 đáp án, 7 điểm)
+
+Sinh viên điền kết quả điền vào ô sau đây:
+
+         Câu 1        Câu 2        Câu 3         Câu 4                           Câu 5      Câu 6       Câu 7
+
+         Câu 8        Câu 9        Câu 10        Câu 11                          Câu 12     Câu 13      Câu 14
+
+
+
+Câu 1: Hạt tải chủ yếu trong bán dẫn loại n là (G1, G2)
+
+a. electron
+b. lỗ trống (hole)
+c. ion dương
+d. ion âm
+
+Câu 2: Để tăng độ dốc (roll-off) của mạch lọc thì (G1, G2)
+
+a. Tăng bậc của mạch lọc hoặc mắc nhiều mạch lọc song song
+b. Thay đổi giá trị của R và C
+c. Tăng bậc của mạch lọc và mắc nhiều mạch lọc nối tiếp
+d. Điều chỉnh giá trị của điện trở hồi tiếp
+
+Câu 3: Đối với linh kiện transistor, nếu dòng ngõ ra tại cực C là 1,52 mA thì dòng ngõ vào tại cực B
+ứng với hệ số khuếch đại 60 là (G1, G2)
+
+a. 25,36µA
+b. 0,25µA
+c. 0,25 mA
+d. 0,025 mA
+
+Câu 4: Sinh viên xác định mạch dưới đây là (G1, G2)
+
+
+
+
+                                             messages.downloaded_by
+                                                     lOMoARcPSD|49145529
+
+
+
+
+                                               a. Mạch ADC 4 bit
+                                               b. Mạch DAC 4 bit
+                                               c. Mạch khuếch đại không đảo sử dụng OPAMP
+                                               d. Tất cả đều sai
+
+
+Câu 5: Cho đặc tuyến như hình vẽ. Sinh viên lựa chọn điểm tĩnh Q tại vị trí nào là tối ưu (G1, G2)
+
+                                                   a. Vị trí số 1
+                                                   b. Vị trí số 2
+                                                   c. Vị trí số 3
+                                                   d. Vị trí 1 hoặc 2 hoặc 3 đều tối ưu
+
+
+
+
+Câu 6: Cho đồ thị của mạch lọc như hình bên dưới (G1, G2)
+
+
+
+
+a. Đây là mạch lọc bậc 1 (bậc nhất) với hệ số khuếch đại là ACL = (R1/R2) -1
+b. Đây là mạch lọc bậc thông thấp (hạ thông) bậc 1 với hệ số dốc (roll-off) là -20dB/dec.
+c. Đây là mạch lọc thông cao (thượng thông) với giá trị R, C được nối với ngõ vào V- của OPAMP
+d. Đây là mạch lọc thông cao (thượng thông) bậc 1 với với hệ số dốc (roll-off) là -20dB/dec
+
+Câu 7: Cho mạch ổn áp với diode Zener có VZ = 20V, PZmax = 10W, RL = 200Ω, R = 20Ω, điện thế đầu vào là
+30V. Giá trị V1 và 𝑽𝟎 là bao nhiêu
+
+                                                     a. V1 = 20V và 𝑉0 = 20V
+                                                     b. V1 = 30V và 𝑉0 = 30V
+                                                     c. V1 = 30V và 𝑉0 = 400V
+                                                     d. Không tính được
+
+
+
+
+                                            messages.downloaded_by
+                                                    lOMoARcPSD|49145529
+
+
+
+
+Câu 8: Thuật ngữ “pole” trong mạch lọc thể hiện (G1, G2)
+
+a. Độ lợi của OPAMP
+b. Số lượng cặp linh kiện RC
+c. Độ chênh lệch bandwidth (BW) khi ghép các mạch lọc song song
+d. Độ dốc của mạch lọc
+
+Câu 9: Trong chuyển tiếp PN thì vùng nghèo được định nghĩa là vùng (G1, G2)
+
+a. Không tồn tại các electron
+b. Không tồn tại các lỗ trống
+c. Không tồn tại bất kì hạt mang điện nào
+d. Xuất hiện khi chuyển tiếp PN ở trạng thái chưa cân bằng
+
+Câu 10: Linh kiện Opamp thực tế thì (G1, G2)
+
+a. Trở kháng ngõ vào lớn và trở kháng ngõ ra gần bằng không
+b. Trở kháng ngõ vào nhỏ và trở kháng ngõ ra lớn
+c. Trở kháng ngõ vào là vô cực và trở kháng ngõ ra bằng không
+d. Tất cả đều sai
+
+Câu 11: Đối với linh kiện JFET, quá trình đóng mở kênh dẫn được thực hiện dựa vào (G1, G2)
+
+a. Phân cực thuận của chuyển tiếp pn
+b. Phân cực nghịch của chuyển tiếp pn
+c. Cấu trúc MOS (metal – oxide – semiconductor)
+d. Tất cả đều sai
+
+Câu 12: Cho mạch lọc như hình (G1, G2)
+
+                                          a. Lọc thông thấp và độ dốc phụ thuộc vào R,C
+                                          b. Lọc thông cao và độ dốc phụ thuộc vào R1, R2
+                                          c. Lọc thông thấp và độ dốc phụ thuộc vào R1, R2 và cả
+                                             R,C
+                                          d. Lọc thông cao và tần số cắt phụ thuộc vào R,C
+
+
+Câu 13: Cho mạch điện như hình vẽ. Sinh viên cho biết chức năng của opamp (G1, G2)
+
+
+
+
+                                           messages.downloaded_by
+                                                    lOMoARcPSD|49145529
+
+
+
+
+                                        a. Opamp hoạt động ở trạng thái khuếch đại không đảo và
+                                           Q1 bật tắt relay
+                                        b. Opamp hoat động như mạch so sánh tín hiệu cho cầu
+                                           wheatsone
+                                        c. Opamp hoạt động ở trạng thái khuếch đại đảo và Q1 bật
+                                           tắt relay
+                                        d. Tất cả đều sai
+
+Câu 14: Cho mạch Opamp như hình bên dưới. Độ lợi của toàn mạch chính là (G1, G2)
+
+                                                   a. 𝐴𝑉 = 𝑉01 × 𝑉02
+                                                   b. 𝐴𝑉 = 𝑉01 × 𝑉02 × 𝑉𝑖𝑛
+                                                   c. 𝐴𝑉 = 𝑉02 ÷ 𝑉𝑖𝑛
+                                                   d. Tất cả đều sai
+
+
+II. TỰ LUẬN (4 điểm)
+
+Bài 1: Cho mạch lọc như hình bên. (G1, G2, G3).
+   a. Tính tần số cắt của mạch bên.
+   b. Xác định giá trị của R1 để đáp ứng tần số theo Butterworth
+       Bảng thông số Butterworth
+
+
+
+
+                                           messages.downloaded_by
+                                                          lOMoARcPSD|49145529
+
+
+
+
+Bài 2: Cho mạch phân cực bằng cầu chia thế và điện trở RE ( như
+hình bên cạnh). Transistor có VBE = 0.7V và βDC= βAC = 50. (G1, G2,
+G3).
+a. Tính trị số điểm tĩnh điều hành Q và vẽ đường tải tĩnh (DC
+loadline)
+
+Vẽ lại mạch phân tích tín hiệu bé
+b. Tính hệ số ổn định nhiệt S. Biết S = 1+ RB/RE với RB là giá trị điện
+trở tại cực B của transistor (bỏ qua giá trị Rinbase).
+c. Tính AV, Ai và Z0.
+d. Nếu mắc thêm tải RL = 2,7 kΩ tại ngõ ra thì tổng trở ngõ ra là bao
+nhiêu?
+
+
+
+
+                                                 messages.downloaded_by
+                             lOMoARcPSD|49145529
+
+
+
+
+               ------------HẾT-----------
+
+ Giảng viên ra đề                                  Duyệt đề của khoa/bộ môn
+
+
+
+Trần Quang Nguyên                                       Trịnh Lê Huy
+
+
+  CĐRMH             Mô tả CĐRMH (Mục tiêu cụ thể)
+
+     G1      Kiến thức nền tảng về Toán và Khoa học tự nhiên
+
+     G2      Kiến thức ngành kỹ thuật máy tính
+
+     G3      Kỹ năng giải quyết vấn đề
+
+
+
+
+                    messages.downloaded_by
+

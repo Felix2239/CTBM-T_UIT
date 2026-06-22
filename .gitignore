@@ -1,0 +1,18 @@
+# Keep this repository focused on documentation artifacts.
+scripts/
+figures/
+# Local agent/tooling state
+.agents/
+.codex/
+
+# Python cache/build output
+__pycache__/
+*.pyc
+
+# Common generated files
+*.aux
+*.log
+*.out
+*.toc
+*.tmp
+.DS_Store

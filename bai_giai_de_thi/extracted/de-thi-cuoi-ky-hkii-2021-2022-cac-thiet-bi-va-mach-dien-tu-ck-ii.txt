@@ -1,0 +1,302 @@
+                                                 lOMoARcPSD|49145529
+
+
+
+
+               Dethi CK II 2021 2022 - đề thi cuối kì
+
+
+Các thiết bị và mạch điện tử (Trường Đại học Công nghệ thông tin, Đại học Quốc gia
+                              Thành phố Hồ Chí Minh)
+
+
+
+
+                                  messages.pdf_cover_qr_code_label
+
+
+
+
+                        messages.studocu_not_sponsored_or_endorsed_by_college
+                                      messages.downloaded_by
+                                                      lOMoARcPSD|49145529
+
+
+
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                          KÌ THI CUỐI KÌ HKII (Năm học 2021 – 2022)
+
+         KHOA KỸ THUẬT MÁY TÍNH                                                 Môn: Các Thiết Bị và Mạch Điện Tử
+
+                                                                                        Thời gian: 75 phút
+
+                                                                                      Không sử dụng tài liệu
+
+Họ và tên sinh viên: …………………………………..
+
+MSSV: ………………………………………………..                                                                    ĐIỂM
+
+STT: ………………………………………………….
+
+PHẦN I: TRẮC NGHIỆM (chỉ chọn 1 đáp án, 6 điểm)
+
+Câu 1: Chọn đáp án đúng nhất của hình mạch bên dưới (G2)
+
+
+
+
+A. Mạch lọc tích cực thông cao với DF = 2 - (R1/R2)
+
+B. Mạch lọc tích cực thông cao với DF = 2 - (R2/R1)
+
+C. Mạch lọc tích cực thông thấp với DF = 2 - (R1/R2)
+
+D. Mạch lọc tích cực thông thấp với DF = 2 - (R2/R1)
+
+Câu 2: Vùng nghèo trong chuyển tiếp PN là vùng (G2)
+
+A. Không có các electron
+
+B. Không có các lỗ trống
+
+C. Không có bất kì hạt tải mang điện nào
+
+D. Chỉ có ion dương và ion âm
+
+Câu 3: Nếu dòng ngõ vào IB gấp 40 lần giá trị dòng ngõ ra IC thì hệ số khuếch đại β là (G2)
+
+                                                         1
+
+
+                                            messages.downloaded_by
+                                                       lOMoARcPSD|49145529
+
+
+
+
+A. 1/40
+
+B. 40
+
+C. 80
+
+D. Ø
+
+Câu 4: Để tăng độ dốc (roll-off) của mạch lọc thì (G2)
+
+A. Điều chỉnh giá trị của điện trở hồi tiếp
+
+B. Tăng bậc của mạch lọc và mắc nhiều mạch lọc nối tiếp
+
+C. Thay đổi giá trị của R và C
+
+D. Tăng bậc của mạch lọc hoặc mắc nhiều mạch lọc song song
+
+Câu 5: Chọn đáp án đúng nhất đối với OP-AMP lý tưởng (G2)
+
+A. Độ lợi dao động từ 50 - 200
+
+B. Trở kháng ngõ vào bằng 0
+
+C. Trở kháng ngõ vào vô cùng lớn
+
+D. Trở kháng ngõ ra vô cùng lớn
+
+Câu 6: Diode phân cực thuận khi điện thế ngoài được áp vào như sau (G1, G2)
+
+A. Cực dương của điện thế với anode và cực âm của điện thế với cathode
+
+B. Cực dương của điện thế với bán dẫn loại p và cực âm của điện thế với bán dẫn loại n
+
+C. Cực dương của điện thế với bán dẫn loại n và cực âm của điện thế với bán dẫn loại p
+
+D. Câu A và B đúng
+
+Câu 7: Giá trị Vref của mạch bên dưới là bao nhiêu (G1, G2)
+
+
+
+
+                                                          2
+
+
+                                              messages.downloaded_by
+                                                     lOMoARcPSD|49145529
+
+
+
+
+             R2
+a. Vref =           15𝑉
+            𝑅1+𝑅2
+              R1
+b. Vref =           𝑉𝑖𝑛
+            𝑅1+𝑅2
+c. Vref = 15V - Vin
+d. Vref = 1.36V
+
+Câu 8: Làm thế nào để thay đổi hệ số khuếch đại của mạch khuếch đại điện áp dùng Op-amp (G2)
+
+A. Tăng đồng thời điện trở hồi tiếp và điện trở ngõ vào lên gấp đôi
+
+B. Thay đổi Aol
+
+C. Thay đổi điện trở hồi tiếp
+
+D. Giảm đồng thời điện trở hồi tiếp và điện trở ngõ vào lên gấp đôi
+
+Câu 9: Cho mạch khuếch đại Opamp như hình bên dưới. Giá trị v1 là (G1, G2)
+
+
+
+
+A. 5V
+B. 3V
+C. 0.5V
+D. 1.8V
+
+
+
+
+                                                        3
+
+
+                                            messages.downloaded_by
+                                                         lOMoARcPSD|49145529
+
+
+
+
+Câu 10: Mạch lọc tích cực thông cao ( hình bên ) thì tần số cắt có công thức là
+
+
+
+
+A. fc =1/(2πRC)
+B. fc =1/(2π(R1+R2)C)
+C. fc =1/(πRC)
+D. fc =(R1+R2)/(2πC)
+
+Câu 11: Cho đồ thị đáp ứng tần số của mạch lọc như hình (G2)
+
+
+
+
+A. Đây là mạch lọc bậc 2, thông cao, hai tầng.
+B. Đây là mạch lọc bậc thông thấp bậc 1, hai tầng.
+C. Đây là mạch lọc thông cao, bậc 2, ba tầng
+D. Đây là mạch lọc thông thấp, bậc 1, ba tầng.
+
+Câu 12: Cho sơ đồ mạch như hình bên dưới có đáp ứng tần số theo Butterworth. Dựa vào bảng Butterworth
+thì giá trị R1 là bao nhiêu khi R2 = 2,7 kΩ (G2)
+
+
+
+
+A. R1 = 1,58 kΩ
+
+                                                            4
+
+
+                                                messages.downloaded_by
+                                                     lOMoARcPSD|49145529
+
+
+
+
+ B. R1 = 1,5822 Ω
+
+ C. R1 = 6,51 kΩ
+
+ D. R1 = 9,21 kΩ
+
+
+
+
+                                        Kết quả điền vào ô sau đây:
+
+           Câu 1          Câu 2         Câu 3                              Câu 4    Câu 5    Câu 6
+
+
+
+           Câu 7          Câu 8         Câu 9                              Câu 10   Câu 11   Câu 12
+
+
+
+
+II. TỰ LUẬN (4 điểm)
+
+  Bài 1(G3): Thiết kế mạch ổn áp sử dụng diode Zener với các điều kiện sau: Nguồn điện thế DC tại ngõ
+     vào có giá trị 24V. Điện trở tải thay đổi từ 100 Ω đến 500 Ω. Thông số diode Zener: VZ = 10V (rz
+     không đáng kể), PZmax = 240 mW.
+
+  a. Vẽ hình mạch ổn áp như trên và tính giá trị RS sao cho mạch luôn hoạt động (chú ý: lấy giá trị trung
+     bình của điện trở RS)
+  b. Ứng với thông số Rs vừa tìm được tại câu a nhưng hở tải thì diode Zener còn họạt động không?
+
+
+
+
+                                                        5
+
+
+                                            messages.downloaded_by
+         lOMoARcPSD|49145529
+
+
+
+
+            6
+
+
+messages.downloaded_by
+                                                             lOMoARcPSD|49145529
+
+
+
+
+     Bài 2 (G3): Cho mạch khuếch đại DMOSFET ( như hình bên) với
+     các thông số sau: IDSS = 6mA, VGSoff = -VPo = - 3V, rd = 20 kΩ, IS =
+     5,5 mA. Các tụ có giá trị rất lớn.
+     a. Tính trị số điểm tĩnh Q (IDS, VGS và VDS)
+     b. Vẽ mạch tương đương.
+     c. Tính AV và ZO, Zi.
+     d. Nếu mắc thêm tải RL = 2,7 kΩ thì phải mắc như thế nào?
+a.
+
+
+
+
+                                                                7
+
+
+                                                    messages.downloaded_by
+                              lOMoARcPSD|49145529
+
+
+
+
+  CĐRMH             Mô tả CĐRMH (Mục tiêu cụ thể)
+
+     G1     Kiến thức nền tảng về Toán và Khoa học tự nhiên
+
+     G2     Kiến thức ngành kỹ thuật máy tính
+
+     G3     Kỹ năng giải quyết vấn đề
+
+
+ Giảng viên ra đề                                   Duyệt đề của khoa/bộ môn
+
+
+
+
+Trần Quang Nguyên                                        Trịnh Lê Huy
+
+
+
+
+                                 8
+
+
+                     messages.downloaded_by
+

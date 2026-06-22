@@ -1,0 +1,240 @@
+[
+  {
+    "id": "bt01_dc_resistor",
+    "source": "Slide_new/Buổi 01. Chương 01 - Đại cương và các linh kiện điện tử cơ bản-đã chuyển đổi.pptx",
+    "slide": 35,
+    "image": "bai_giai_slide/captures/bt01_dc_resistor.png",
+    "text": "Bài tập ôn tập Cho mạch điện như hình vẽ a . R 1 =R 2 =R 3 =R 4 =2(Ω), R 5 =R 7 =1(Ω), R 6 =3(Ω),U AB =10(V). Tính : R AB , I, I R3 , U R6 . b . R 1 =R 7 = 2(Ω), R 2 =R 3 =R 6 =1(Ω), R 4 =R 5 =3(Ω), U AB = 12(V). Tính : R AB , I, I R4, U R3, P. TRỊNH LÊ HUY 35"
+  },
+  {
+    "id": "bt02_ac_phasor",
+    "source": "Slide_new/Buổi 01. Chương 01 - Đại cương và các linh kiện điện tử cơ bản-đã chuyển đổi.pptx",
+    "slide": 36,
+    "image": "bai_giai_slide/captures/bt02_ac_phasor.png",
+    "text": "Bài tập ôn tập Tìm các dòng I, I 1 , I 2 Cho mạch như hình với Ė = 50  0 0 (hiệu dụng). Xác định công suất phát ra bởi nguồn và công suất tiêu tán trên điện trở. TRỊNH LÊ HUY 36"
+  },
+  {
+    "id": "bt03_thevenin",
+    "source": "Slide_new/Buổi 01. Chương 01 - Đại cương và các linh kiện điện tử cơ bản-đã chuyển đổi.pptx",
+    "slide": 37,
+    "image": "bai_giai_slide/captures/bt03_thevenin.png",
+    "text": "Bài tập ôn tập Cho mạch như hình. Tìm dòng I Tìm mạch tương đương Thevenin của mạch TRỊNH LÊ HUY 37"
+  },
+  {
+    "id": "bt04_rectifier_wave",
+    "source": "Slide/Chuong02.pptx",
+    "slide": 34,
+    "image": "bai_giai_slide/captures/bt04_rectifier_wave.png",
+    "text": "Các vấn đề cần chú ý của mạch chỉnh lưu Trịnh Lê Huy 34 Ví dụ : Vẽ lại hiệu điện thế đầu ra của 2 mạch chỉnh lưu trên . Tính độ sai số của giá trị hiệu điện thế đầu ra so với giá trị của hiệu điện thế đầu vào ? Công thức tính : Kết luận : Ảnh hưởng của hiệu điện thế ngưỡng sẽ được bỏ qua nếu hiệu điện thế đầu vào lớn ."
+  },
+  {
+    "id": "bt05_piv",
+    "source": "Slide/Chuong02.pptx",
+    "slide": 36,
+    "image": "bai_giai_slide/captures/bt05_piv.png",
+    "text": "Các vấn đề cần chú ý của mạch chỉnh lưu Trịnh Lê Huy 36 Điện thế nghịch đảo cực đại (Peak Inverse Voltage) Cho mạch như hình vẽ , tính giá trị PIV của các diode trong mạch sau ? 10:1"
+  },
+  {
+    "id": "bt06_ripple",
+    "source": "Slide/Chuong02.pptx",
+    "slide": 41,
+    "image": "bai_giai_slide/captures/bt06_ripple.png",
+    "text": "Các vấn đề cần chú ý của mạch lọc nguồn một chiều Trịnh Lê Huy 41 Hệ số nhấp nhô : Ví dụ : Tính hệ số nhấp nhô (ripple factor) của mạch sau . Biết hiệu điện thế ngưỡng của 1N4001 là 0.7 V"
+  },
+  {
+    "id": "bt07_zener",
+    "source": "Slide/Chuong02.pptx",
+    "slide": 47,
+    "image": "bai_giai_slide/captures/bt07_zener.png",
+    "text": "Mạch ổn áp sử dụng Diode Zener Trịnh Lê Huy 47 Tính hiệu điện thế V IN và hiệu điện thế V OUT khi mạch ổn áp hoạt động ?"
+  },
+  {
+    "id": "bt08_bjt_dc_1",
+    "source": "Slide/Chuong03.pptx",
+    "slide": 16,
+    "image": "bai_giai_slide/captures/bt08_bjt_dc_1.png",
+    "text": "Đặc tính của Transistor Trịnh Lê Huy 16 Ví dụ : Tính giá trị của I B , I C , I E , V CE , V CB . Biết V BE =0.7 V và  DC =90. 6 6 V 9 V 22 k Ω 220 Ω ĐS: 0.24 mA, 21.6mA, 21.84mA, 4.25V, 3.55V"
+  },
+  {
+    "id": "bt09_bjt_dc_2",
+    "source": "Slide/Chuong03.pptx",
+    "slide": 18,
+    "image": "bai_giai_slide/captures/bt09_bjt_dc_2.png",
+    "text": "Đặc tính của Transistor Trịnh Lê Huy 18 Ví dụ : Tính giá trị của I B , I C , I E , V CE , V CB . Biết V BE =0.7 V và  DC =90. 6 9 V 9 V 22 k Ω 220 Ω ĐS: 0.38 mA, 34mA, 34.37mA, 1.53V, 0.83V"
+  },
+  {
+    "id": "bt10_bjt_saturation",
+    "source": "Slide/Chuong03.pptx",
+    "slide": 19,
+    "image": "bai_giai_slide/captures/bt10_bjt_saturation.png",
+    "text": "Đặc tính của Transistor Trịnh Lê Huy 19 Ví dụ : Tính giá trị của I B , I C , I E , V CE , V CB . Biết V BE =0.7 V và  DC =90. 6 10.7 V 9 V 22 k Ω 220 Ω ĐS: 0.45 mA, 40.9mA, 41.35mA, 0V, -0.7V"
+  },
+  {
+    "id": "bt11_bjt_divider_ideal",
+    "source": "Slide/Chuong03.pptx",
+    "slide": 41,
+    "image": "bai_giai_slide/captures/bt11_bjt_divider_ideal.png",
+    "text": "Phân cực bằng cầu phân áp Trịnh Lê Huy 41 C E B ĐS: 5.16 mA, 1.95 V Ví dụ : Trong trường hợp lý tưởng , xem như I B vô cùng bé so với dòng điện đi qua R 2 . Tính giá trị của I C và V CE .  DC = 100"
+  },
+  {
+    "id": "bt12_bjt_thevenin",
+    "source": "Slide/Chuong03.pptx",
+    "slide": 42,
+    "image": "bai_giai_slide/captures/bt12_bjt_thevenin.png",
+    "text": "Phân cực bằng cầu phân áp Trịnh Lê Huy 42 C E B ĐS: 3.59 V, 3.59 Ohm, 4.85 mA, 2.43 V Ví dụ : Trong thực tế , giá trị của I B có ảnh hưởng đến mạch . Sử dụng định lý Thevenin để tính U hm và Z td tại điểm B. Từ đó tính I C , V CE .  DC = 100"
+  },
+  {
+    "id": "bt13_ce_dc",
+    "source": "Slide_new/Buồi 04. Chương 04 - Transistor tt-đã chuyển đổi.pptx",
+    "slide": 4,
+    "image": "bai_giai_slide/captures/bt13_ce_dc.png",
+    "text": "Phân tích mạch khuếch đại CE Tính I E , I C , V E , V B , V C ? Tín hiệu lớn! TRỊNH LÊ HUY 4"
+  },
+  {
+    "id": "bt14_ce_ac",
+    "source": "Slide_new/Buồi 04. Chương 04 - Transistor tt-đã chuyển đổi.pptx",
+    "slide": 5,
+    "image": "bai_giai_slide/captures/bt14_ce_ac.png",
+    "text": "Phân tích mạch khuếch đại CE Tính R in(base) , R in , A v , A i , A p ? Tín hiệu nhỏ! TRỊNH LÊ HUY 4"
+  },
+  {
+    "id": "bt15_emosfet_1",
+    "source": "Slide_new/Buổi 05. Chương 05 - Transistor hiệu ứng trường (FET)-đã chuyển đổi.pptx",
+    "slide": 39,
+    "image": "bai_giai_slide/captures/bt15_emosfet_1.png",
+    "text": "Cách phân cực cho E- MOSFET TRỊNH LÊ HUY 39 Tính hiệu điện thế phân cực V GS và V DS của E-MOSFET bên dưới? Biết I D(on) = 200mA, V GS = 4V, V GS(th) = 2V V GS = ? K = ? I D = ? V DS = ?"
+  },
+  {
+    "id": "bt16_emosfet_2",
+    "source": "Slide_new/Buổi 05. Chương 05 - Transistor hiệu ứng trường (FET)-đã chuyển đổi.pptx",
+    "slide": 40,
+    "image": "bai_giai_slide/captures/bt16_emosfet_2.png",
+    "text": "Cách phân cực cho E- MOSFET TRỊNH LÊ HUY 40 Tính hiệu điện thế phân cực V GS , V DS và I D của E-MOSFET bên dưới? Biết giá trị đo được bởi voltmeter là 5V V GS = ? V DS = ? I D = ?"
+  },
+  {
+    "id": "bt17_jfet_1",
+    "source": "Slide_new/Buổi 06. Chương 05 - Transistor hiệu ứng trường (FET) (tt)-đã chuyển đổi.pptx",
+    "slide": 1,
+    "image": "bai_giai_slide/captures/bt17_jfet_1.png",
+    "text": "Bài tập FETs Bài 1: Cho mạch khuếch đại JFET kênh n ( hình bên) có các thông số sau: I DSS = 1.65 mA, V Po = 2V. Tính: Tính điện thế phân cực V GS theo điều kiện V GS + V Po = 0.63. Tính dòng thoát I D . Tính hệ số truyền dẫn g m"
+  },
+  {
+    "id": "bt18_jfet_2",
+    "source": "Slide_new/Buổi 06. Chương 05 - Transistor hiệu ứng trường (FET) (tt)-đã chuyển đổi.pptx",
+    "slide": 2,
+    "image": "bai_giai_slide/captures/bt18_jfet_2.png",
+    "text": "Bài 2: Cho mạch khuếch đại JFET 2N5458 ( như hình bên) với các thông số sau: I DSS = 2mA - 9mA, g m = 1500 - 5000 µS và dòng rỉ cực cổng I GS = 1nA, R D = 2 kΩ, R G = 100 MΩ, V DD = 20V. Tính trị số V GS . Tính điện thế V DS trong hai giới hạn của I DSS cho ở trên. Tính độ lợi điện thế A V trong 3 giới hạn của I DSS ở trên."
+  },
+  {
+    "id": "bt19_jfet_3",
+    "source": "Slide_new/Buổi 06. Chương 05 - Transistor hiệu ứng trường (FET) (tt)-đã chuyển đổi.pptx",
+    "slide": 3,
+    "image": "bai_giai_slide/captures/bt19_jfet_3.png",
+    "text": "Bài 3: Cho mạch khuếch đại JFET (như hình bên) với các thông số : I DSS = 10 mA, I GS = 0V, V GSoff = -V Po = - 4V, V i = 20 mV, V DD = 15V, V GG = - 1V, R D = 1.5 kΩ, R G = 1MΩ. Tính trị số điểm tĩnh Q. Vẽ mạch điện tương đương. Tính A V và điện thế ra V O ."
+  },
+  {
+    "id": "bt20_jfet_4",
+    "source": "Slide_new/Buổi 06. Chương 05 - Transistor hiệu ứng trường (FET) (tt)-đã chuyển đổi.pptx",
+    "slide": 4,
+    "image": "bai_giai_slide/captures/bt20_jfet_4.png",
+    "text": "Bài 4: Cho mạch khuếch đại ( như hình bên). JFET được phân cực có I DQ = 2.5 mA, g m = 3 mS, r d = 100 kΩ, R 1 = 5.6 MΩ, R 2 = 1 MΩ, R D = 2.7 kΩ, R S = 2.7 kΩ, V DD = 24V. Tính: Trị V GSQ và V DSQ . Vẽ mạch tương đương. Trị A V , Z i , Z O . Tính lại A V khi mạch có tải riêng R L = 10 kΩ và R Sig = 100 kΩ"
+  },
+  {
+    "id": "bt21_jfet_6",
+    "source": "Slide_new/Buổi 06. Chương 05 - Transistor hiệu ứng trường (FET) (tt)-đã chuyển đổi.pptx",
+    "slide": 6,
+    "image": "bai_giai_slide/captures/bt21_jfet_6.png",
+    "text": "Bài 6: Cho mạch điện như hình vẽ bên. Biết R 1 = 110 MΩ, R 2 = 10 MΩ, V DD = 18V, R D = 1.8 kΩ, R S = 750 Ω, I DSS = 6 mA, V GS0 = - 3V. Tính V GSQ , I DQ , V DS . Vẽ mạch tương đương"
+  },
+  {
+    "id": "bt22_opamp_open_loop",
+    "source": "Slide_new/Buổi 08. Chương 6 - Mạch khuếch đại thuật toán Opamp-đã chuyển đổi.pptx",
+    "slide": 18,
+    "image": "bai_giai_slide/captures/bt22_opamp_open_loop.png",
+    "text": "Ví dụ Op - amp có Vcc = 5V, A = 10 5 , V- = 0, V+ = 100sin2πt (µV). Tìm và vẽ điện áp V out. Giải TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt23_opamp_gain_proof",
+    "source": "Slide_new/Buổi 09. Chương 6 - Mạch khuếch đại thuật toán Opamp (tt)-đã chuyển đổi.pptx",
+    "slide": 10,
+    "image": "bai_giai_slide/captures/bt23_opamp_gain_proof.png",
+    "text": "Kiểm tra 15’ Cho mạch Chứng minh công thức sau: Cho mạch Chứng minh công thức sau: TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt24_opamp_rf",
+    "source": "Slide_new/Buổi 09. Chương 6 - Mạch khuếch đại thuật toán Opamp (tt)-đã chuyển đổi.pptx",
+    "slide": 22,
+    "image": "bai_giai_slide/captures/bt24_opamp_rf.png",
+    "text": "Kiểm tra 25’ Chứng minh công thức tính A cl (NI) và A cl (I) Tính R f để giá trị Acl của mạch đạt được giá trị như trong hình TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt25_comparator_1_2",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 3,
+    "image": "bai_giai_slide/captures/bt25_comparator_1_2.png",
+    "text": "Mạch so sánh sử dụng Op-Amp 1. Biết hệ số khuếch đại vòng hở của Op-Amp là 80,000. Giá trị đầu ra tối đa là ± 12 V, hiệu điện thế cấp nguồn cho Op-Amp là ± 15 V. Nếu hai tín hiệu đầu vào có giá trị V d =0.15 mV. Giá trị hiệu điện thế Peak-Peak của tín hiệu đầu ra là bao nhiêu? 2. Xác định giá trị đầu ra của các mạch so sánh sau: TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt26_schmitt_1",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 4,
+    "image": "bai_giai_slide/captures/bt26_schmitt_1.png",
+    "text": "Mạch so sánh sử dụng Op-Amp TRỊNH LÊ HUY 10 3. Tính giá trị UTP và LTP của mạch sau: 4. Dựa trên tín hiệu đầu vào, vẽ lại hình dáng của tín hiệu đầu ra:"
+  },
+  {
+    "id": "bt27_summing_1",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 8,
+    "image": "bai_giai_slide/captures/bt27_summing_1.png",
+    "text": "Mạch cộng sử dụng Op-Amp 1. Xác định giá trị đầu ra của mạch sau: TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt28_summing_2_3",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 9,
+    "image": "bai_giai_slide/captures/bt28_summing_2_3.png",
+    "text": "Mạch cộng sử dụng Op-Amp TRỊNH LÊ HUY 10 2. Xác định giá trị đầu ra của mạch sau: 3. Tính giá trị của R f sao cho V OUT =5(V 1 +V 2 )"
+  },
+  {
+    "id": "bt29_weighted_sum",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 12,
+    "image": "bai_giai_slide/captures/bt29_weighted_sum.png",
+    "text": "Mạch cộng sử dụng Op-Amp TRỊNH LÊ HUY 10 6. Thiết kế mạch sao cho thỏa mãn công thức sau: V OUT = 0.1 V 1 + 0.2 V 2 + 0.3 V 3 + 0.4 V 4 Biết R f =10kOhm"
+  },
+  {
+    "id": "bt30_diff_integral",
+    "source": "Slide_new/Buổi 12 - Ôn tập chương 6-đã chuyển đổi.pptx",
+    "slide": 13,
+    "image": "bai_giai_slide/captures/bt30_diff_integral.png",
+    "text": "Mạch vi phân/tích phân sử dụng Op-Amp 1. Tính rate of change của mạch sau 2. Biểu diễn tín hiệu đầu ra của mạch sau TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt31_active_lp",
+    "source": "Slide_new/Buổi 14. Chương 7 - Mạch lọc tt (lọc tích cực)-đã chuyển đổi.pptx",
+    "slide": 11,
+    "image": "bai_giai_slide/captures/bt31_active_lp.png",
+    "text": "Mạch lọc tích cực thông thấp Ví dụ: Tính tần số cắt của mạch bên. Đồng thời xác định giá trị của R1 để đáp ứng tần số theo Butterworth ĐS: 7.23KHz, 586Ohm TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt32_two_stage_lp",
+    "source": "Slide_new/Buổi 14. Chương 7 - Mạch lọc tt (lọc tích cực)-đã chuyển đổi.pptx",
+    "slide": 13,
+    "image": "bai_giai_slide/captures/bt32_two_stage_lp.png",
+    "text": "Mạch lọc tích cực thông thấp Cho mạch khuếch đại 2 tầng như hình dưới, biết R A1 =R A2 =R B1 =R B2 = R 2 =R 4 =1.8K Ω , các giá trị của tụ điện bằng nhau và bằng C. Tính C để mạch có tần số cắt là 2.68kHz. Tính R 1 , R 3 để mạch có đáp ứng tần số theo Butterworth. ĐS: 33nF, 274Ohm, 2.22kOhm TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt33_active_hp",
+    "source": "Slide_new/Buổi 14. Chương 7 - Mạch lọc tt (lọc tích cực)-đã chuyển đổi.pptx",
+    "slide": 16,
+    "image": "bai_giai_slide/captures/bt33_active_hp.png",
+    "text": "Mạch lọc tích cực thông cao Ví dụ: Chọn các giá trị của các linh kiện trong mạch sao cho tần số cắt của mạch là 20kHz và mạch có đáp ứng tần số theo Butterworth. TRỊNH LÊ HUY 10"
+  },
+  {
+    "id": "bt34_mfb_bandpass",
+    "source": "Slide_new/Buổi 14. Chương 7 - Mạch lọc tt (lọc tích cực)-đã chuyển đổi.pptx",
+    "slide": 21,
+    "image": "bai_giai_slide/captures/bt34_mfb_bandpass.png",
+    "text": "Mạch lọc đa hồi tiếp thông dải (multiple-feedback filter) Ví dụ: Tính tần số trung tâm, độ lợi tín hiệu tại tần số trung tâm, độ chọn lọc và băng thông của mạch bên. Tần số trung tâm Độ chọn lọc Độ lợi tại tần số trung tâm TRỊNH LÊ HUY 10"
+  }
+]

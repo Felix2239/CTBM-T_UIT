@@ -1,0 +1,899 @@
+Câu 1. Điện tích được tính theo công thức nào?
+A. Q = U/R
+*B. Q = I.t
+C. Q = P.t
+D. Q = U.I
+
+Câu 2. Đơn vị của điện dung là:
+A. Henry
+B. Volt
+*C. Farad
+D. Ohm
+
+Câu 3. Trong mạch DC xác lập, tụ điện lý tưởng được xem gần đúng là:
+A. Ngắn mạch
+*B. Hở mạch
+C. Nguồn áp
+D. Nguồn dòng
+
+Câu 4. Trong mạch DC xác lập, cuộn cảm lý tưởng được xem gần đúng là:
+A. Hở mạch
+*B. Ngắn mạch
+C. Nguồn dòng
+D. Tụ điện
+
+Câu 5. Công thức định luật Ohm là:
+*A. U = I.R
+B. P = U.I
+C. Q = I.t
+D. I = U + R
+
+Câu 6. Dung kháng được xác định bởi:
+A. X_C = 2πfC
+*B. X_C = 1/(2πfC)
+C. X_C = R/C
+D. X_C = 2πRC
+
+Câu 7. Cảm kháng được xác định bởi:
+A. X_L = 1/(2πfL)
+*B. X_L = 2πfL
+C. X_L = L/R
+D. X_L = 2πRL
+
+Câu 8. Công suất điện được tính theo:
+A. P = U/I
+*B. P = U.I
+C. P = I/R
+D. P = Q/t^2
+
+Câu 9. Trong bán dẫn loại N, hạt tải đa số là:
+A. Lỗ trống
+B. Ion âm
+*C. Electron
+D. Photon
+
+Câu 10. Trong diode, cực P được gọi là:
+A. Cathode
+*B. Anode
+C. Drain
+D. Gate
+
+Câu 11. Với diode silicon, điện áp ngưỡng xấp xỉ là:
+A. 0.1V
+B. 0.3V
+*C. 0.7V
+D. 1.5V
+
+Câu 12. Khi diode phân cực nghịch bình thường:
+A. Dẫn mạnh
+*B. Dòng gần như bằng 0
+C. Điện trở bằng 0
+D. Tăng dòng tuyến tính
+
+Câu 13. Mô hình diode lý tưởng xem diode thuận là:
+A. Hở mạch
+B. Biến áp
+*C. Ngắn mạch
+D. Nguồn dòng
+
+Câu 14. Chức năng nổi bật của diode Zener là:
+A. Khuếch đại dòng
+B. Dao động
+*C. Ổn áp
+D. Cộng điện áp
+
+Câu 15. Trong chỉnh lưu toàn chu kỳ, tần số gợn sóng đầu ra bằng:
+A. f
+B. f/2
+*C. 2f
+D. 4f
+
+Câu 16. Tụ lọc trong mạch chỉnh lưu có tác dụng chính là:
+A. Tăng tần số nguồn
+*B. Giảm độ nhấp nhô điện áp
+C. Đảo pha điện áp
+D. Làm điện áp ra âm
+
+Câu 17. PIV của diode là:
+A. Dòng thuận cực đại
+B. Công suất dẫn cực đại
+*C. Điện áp ngược cực đại phải chịu
+D. Điện áp ngưỡng khi dẫn
+
+Câu 18. Với chỉnh lưu bán kỳ có tụ lọc, gần đúng:
+A. V_r(pp) tăng khi C tăng
+*B. V_r(pp) giảm khi C tăng
+C. V_r(pp) không phụ thuộc tải
+D. V_r(pp) luôn bằng 0
+
+Câu 19. BJT có ba cực:
+A. Anode, Cathode, Gate
+B. Drain, Gate, Source
+*C. Emitter, Base, Collector
+D. Input, Output, Ground
+
+Câu 20. Trong vùng active của BJT:
+A. I_C = 0
+*B. I_C = βI_B
+C. V_BE = 0
+D. V_CE = 0
+
+Câu 21. Quan hệ đúng là:
+A. I_B = I_C + I_E
+B. I_C = I_B + I_E
+*C. I_E = I_B + I_C
+D. I_E = I_B - I_C
+
+Câu 22. Khi transistor bão hòa:
+A. I_C luôn bằng βI_B
+*B. V_CE rất nhỏ
+C. V_BE < 0
+D. transistor ngắt
+
+Câu 23. Điểm Q của transistor là:
+A. Điểm gãy trên đặc tuyến diode
+*B. Điểm làm việc DC
+C. Điểm cộng hưởng
+D. Điểm ngắn mạch
+
+Câu 24. Mạch khuếch đại CE có đặc điểm:
+A. Không đảo pha, A_v ≈ 1
+*B. Đảo pha 180 độ, khuếch đại áp lớn
+C. Trở vào rất nhỏ, không khuếch đại dòng
+D. Chỉ dùng cho dao động
+
+Câu 25. Mạch khuếch đại CC có đặc điểm nổi bật:
+A. A_v rất lớn âm
+B. Trở vào nhỏ
+*C. A_v gần bằng 1
+D. Không khuếch đại dòng
+
+Câu 26. Mạch CB có đặc điểm:
+A. A_i rất lớn hơn nhiều 1
+*B. Trở vào rất nhỏ
+C. A_v luôn bằng 1
+D. Luôn đảo pha 180 độ
+
+Câu 27. Công thức gần đúng của điện trở emitter vi sai là:
+*A. r'_e ≈ 25mV/I_E
+B. r'_e ≈ I_E/25mV
+C. r'_e = β/I_C
+D. r'_e = V_CC/I_B
+
+Câu 28. Phân cực cầu chia áp BJT thường ổn định hơn phân cực cố định vì:
+A. Không cần điện trở
+*B. Ít phụ thuộc β hơn
+C. Không cần nguồn DC
+D. Làm V_BE = 0
+
+Câu 29. Với CE có tụ bypass emitter đủ lớn, tác dụng chính là:
+A. Giảm gain AC
+*B. Tăng gain AC
+C. Ngắt hoàn toàn tín hiệu AC
+D. Làm I_C = 0
+
+Câu 30. Tụ coupling có tác dụng:
+A. Cho DC qua, chặn AC
+*B. Chặn DC, cho AC qua
+C. Chỉ tạo cộng hưởng
+D. Chỉ dùng cho nguồn
+
+Câu 31. JFET là linh kiện:
+A. Điều khiển bằng dòng
+*B. Điều khiển bằng điện áp
+C. Điều khiển bằng công suất
+D. Không điều khiển được
+
+Câu 32. Trong JFET, dòng vào cổng gate lý tưởng là:
+A. Rất lớn
+B. Bằng dòng drain
+*C. Gần bằng 0
+D. Luôn âm
+
+Câu 33. Phương trình Shockley của JFET là:
+A. I_D = βI_B
+*B. I_D = I_DSS(1 - V_GS/V_P)^2
+C. I_D = V/R
+D. I_D = C.dv/dt
+
+Câu 34. Cấu hình khuếch đại CS của FET tương tự với cấu hình nào của BJT?
+*A. CE
+B. CC
+C. CB
+D. Darlington
+
+Câu 35. MOSFET khác JFET ở điểm nổi bật là:
+*A. Gate của MOSFET được cách điện bởi oxide
+B. MOSFET không có cực source
+C. JFET không có dòng drain
+D. MOSFET luôn là loại PNP
+
+Câu 36. Với E-MOSFET kênh N, transistor bắt đầu dẫn khi:
+A. V_GS < 0
+B. V_GS = 0 luôn dẫn mạnh
+*C. V_GS > V_TH
+D. V_DS = 0
+
+Câu 37. Công thức dòng trong miền bão hòa của E-MOSFET kênh N là:
+*A. I_D = K(V_GS - V_TH)^2
+B. I_D = βI_B
+C. I_D = V_DS/R_D
+D. I_D = I_DSS(1 - V_GS/V_P)^2
+
+Câu 38. Điều kiện miền bão hòa của E-MOSFET kênh N là:
+A. V_DS < V_GS - V_TH
+B. V_DS = 0
+*C. V_DS ≥ V_GS - V_TH
+D. V_GS < 0
+
+Câu 39. Với JFET tự phân cực, thường có:
+*A. V_G ≈ 0 và V_GS < 0
+B. V_GS > 0
+C. I_G = I_D
+D. V_DS = 0
+
+Câu 40. Độ dẫn truyền nhỏ tín hiệu của JFET/MOSFET được ký hiệu là:
+A. β
+*B. g_m
+C. r_e
+D. A_0
+
+Câu 41. Op-Amp lý tưởng có:
+A. Trở vào nhỏ, trở ra lớn
+*B. Trở vào lớn, trở ra nhỏ
+C. Trở vào và trở ra đều nhỏ
+D. Trở vào và trở ra đều lớn
+
+Câu 42. Trong chế độ tuyến tính có hồi tiếp âm:
+A. V+ = 0
+B. V- = 0
+*C. V+ ≈ V-
+D. V_out = 0
+
+Câu 43. Hệ số khuếch đại của mạch đảo là:
+A. A_v = R_f/R_in
+*B. A_v = -R_f/R_in
+C. A_v = 1 + R_f/R_in
+D. A_v = 0
+
+Câu 44. Hệ số khuếch đại của mạch không đảo là:
+A. A_v = -R_f/R_1
+*B. A_v = 1 + R_f/R_1
+C. A_v = R_1/R_f
+D. A_v = -1
+
+Câu 45. Mạch theo áp có hệ số khuếch đại gần:
+A. 0
+*B. 1
+C. 10
+D. vô cùng
+
+Câu 46. CMRR thể hiện khả năng:
+A. Khuếch đại tín hiệu đồng pha
+*B. Triệt tín hiệu đồng pha
+C. Tăng dòng bias
+D. Ổn áp nguồn
+
+Câu 47. Mạch so sánh dùng op-amp thường làm việc ở:
+A. Vùng tuyến tính hẹp
+*B. Vùng bão hòa đầu ra
+C. Vùng ngắt hoàn toàn
+D. Chỉ miền common mode
+
+Câu 48. Mạch cộng đảo có đầu ra là:
+*A. Tổng đại số có dấu âm của các đầu vào
+B. Hiệu của hai đầu vào
+C. Tích phân của đầu vào
+D. Đạo hàm của đầu vào
+
+Câu 49. Mạch tích phân op-amp có đầu ra tỉ lệ với:
+A. Đạo hàm của đầu vào
+*B. Tích phân của đầu vào
+C. Bình phương đầu vào
+D. Căn bậc hai đầu vào
+
+Câu 50. Mạch vi phân op-amp có đầu ra tỉ lệ với:
+A. Tích phân của đầu vào
+B. Trung bình của đầu vào
+*C. Đạo hàm của đầu vào
+D. Giá trị hiệu dụng
+
+Câu 51. Trong mạch đảo lý tưởng, nút vào chân - thường được gọi là:
+A. Mass thật
+*B. Mass ảo
+C. Điểm bão hòa
+D. Điểm Q
+
+Câu 52. Schmitt trigger dùng:
+A. Hồi tiếp âm
+*B. Hồi tiếp dương
+C. Không có hồi tiếp
+D. Chỉ điện trở thuần
+
+Câu 53. Comparator khác mạch khuếch đại tuyến tính ở chỗ:
+A. luôn cần tụ ghép
+*B. thường làm việc trong bão hòa
+C. không dùng nguồn đối xứng
+D. không có đầu ra
+
+Câu 54. Điều kiện Barkhausen để dao động ổn định là:
+A. |Aβ| = 0
+*B. |Aβ| = 1
+C. |Aβ| > 10
+D. β = 0
+
+Câu 55. Điều kiện khởi động thực tế của mạch dao động là:
+A. |Aβ| < 1
+B. |Aβ| = 0
+*C. |Aβ| > 1
+D. A = 0
+
+Câu 56. Điều kiện pha của mạch dao động tự duy trì là:
+A. Tổng lệch pha bằng 90°
+B. Tổng lệch pha bằng 180°
+*C. Tổng lệch pha bằng 0° hoặc 360°
+D. Không cần điều kiện pha
+
+Câu 57. Mạch cầu Wien thường dùng để tạo:
+A. Xung vuông công suất lớn
+*B. Sóng sin tần số thấp
+C. Dòng DC ổn định
+D. Xung kim
+
+Câu 58. Với cầu Wien đối xứng, tần số dao động là:
+A. f_0 = 2πRC
+*B. f_0 = 1/(2πRC)
+C. f_0 = R/(2πC)
+D. f_0 = C/(2πR)
+
+Câu 59. Tại tần số dao động của cầu Wien, mạng hồi tiếp có độ suy hao xấp xỉ:
+A. 1
+B. 1/2
+*C. 1/3
+D. 1/10
+
+Câu 60. Do đó bộ khuếch đại trong cầu Wien cần có độ lợi xấp xỉ:
+A. 1
+B. 2
+*C. 3
+D. 10
+
+Câu 61. Đáp ứng tần số của một hệ liên tục được xác định bằng cách thay:
+A. s = 0
+B. s = 1
+*C. s = jω
+D. s = β
+
+Câu 62. Trong H(jω), đại lượng |H(jω)| biểu diễn:
+A. Chỉ pha
+*B. Độ lợi biên độ theo tần số
+C. Năng lượng nguồn
+D. Điện trở tải
+
+Câu 63. Pha của đáp ứng tần số được xác định bởi:
+*A. arg H(jω)
+B. |H(jω)|
+C. 1/H(jω)
+D. dH/dt
+
+Câu 64. Độ lợi theo dB được tính bởi:
+A. 10log10(Vout/Vin)
+*B. 20log10(Vout/Vin)
+C. ln(Vout/Vin)
+D. Vout - Vin
+
+Câu 65. Tại tần số cắt của lọc bậc một, biên độ gần bằng:
+A. 1
+B. 1/2
+*C. 1/√2
+D. 2
+
+Câu 66. Tương ứng theo dB, mức đó xấp xỉ:
+A. -1 dB
+*B. -3 dB
+C. -6 dB
+D. +3 dB
+
+Câu 67. Pole của hàm truyền là:
+A. Nghiệm của tử số
+*B. Nghiệm của mẫu số
+C. Tần số nguồn cấp
+D. Điện áp ngưỡng
+
+Câu 68. Mỗi pole bậc một đóng góp xấp xỉ:
+A. -10 dB/dec
+*B. -20 dB/dec
+C. -30 dB/dec
+D. -40 dB/dec
+
+Câu 69. Bộ lọc bậc hai có roll-off xấp xỉ:
+A. -20 dB/dec
+B. -30 dB/dec
+*C. -40 dB/dec
+D. -60 dB/dec
+
+Câu 70. Roll-off là:
+A. Tần số trung tâm
+*B. Độ dốc suy giảm của đáp ứng biên độ
+C. Độ lợi DC
+D. Độ lệch pha nguồn
+
+Câu 71. Tần số cắt của mạch RC bậc một là:
+A. f_c = 2πRC
+*B. f_c = 1/(2πRC)
+C. f_c = R/(2πC)
+D. f_c = C/(2πR)
+
+Câu 72. Bộ lọc thông thấp cho qua tốt:
+A. Tần số cao
+*B. Tần số thấp
+C. Chỉ một tần số duy nhất
+D. Không cho tín hiệu nào qua
+
+Câu 73. Bộ lọc thông cao cho qua tốt:
+A. Tần số thấp
+*B. Tần số cao
+C. Chỉ DC
+D. Chỉ một tần số
+
+Câu 74. Băng thông của bộ lọc thông dải là:
+A. BW = f_L + f_H
+*B. BW = f_H - f_L
+C. BW = f_L/f_H
+D. BW = f_0^2
+
+Câu 75. Tần số trung tâm của thông dải là:
+A. f_0 = f_H - f_L
+*B. f_0 = √(f_Lf_H)
+C. f_0 = f_L + f_H
+D. f_0 = 1/(f_Lf_H)
+
+Câu 76. Hệ số chất lượng của thông dải là:
+A. Q = BW/f_0
+*B. Q = f_0/BW
+C. Q = f_L/f_H
+D. Q = R/C
+
+Câu 77. Bộ lọc Sallen-Key bậc hai có độ dốc xấp xỉ:
+A. 20 dB/dec
+B. 30 dB/dec
+*C. 40 dB/dec
+D. 80 dB/dec
+
+Câu 78. Butterworth là đáp ứng:
+A. Có gợn mạnh trong băng thông
+*B. Phẳng trong băng thông
+C. Chỉ dùng cho mạch số
+D. Không phụ thuộc linh kiện
+
+Câu 79. Lọc tích cực khác lọc thụ động ở điểm nổi bật:
+A. Không dùng R, C
+*B. Có thể khuếch đại và cách ly tải nhờ op-amp
+C. Luôn cần cuộn cảm lớn
+D. Không có tần số cắt
+
+Câu 80. Trong mạch lọc tích cực, mạng RC chủ yếu quyết định:
+A. Màu dây dẫn
+*B. Miền tần số được chọn
+C. Điện áp nguồn nuôi
+D. Dòng bias đầu vào
+
+Câu 81. Với mạch đa hài dùng hai transistor Q1, Q2, nguyên tắc hoạt động là:
+*A. Q1 tắt thì Q2 bão hòa và ngược lại
+B. Q1 tắt thì Q2 tuyến tính và ngược lại
+C. Q1, Q2 luôn cùng bão hòa
+D. Q1, Q2 luôn cùng tuyến tính
+
+Câu 82. Muốn tăng độ dốc roll-off của mạch lọc thì:
+A. Chỉ thay đổi giá trị R, C
+B. Chỉ tăng điện trở hồi tiếp
+*C. Tăng bậc lọc và ghép nhiều tầng nối tiếp
+D. Mắc nhiều mạch lọc song song
+
+Câu 83. Với mạch lọc thông dải, băng thông BW được tính bởi:
+A. BW = fc1 + fc2
+B. BW = sqrt(fc1.fc2)
+*C. BW = fc2 - fc1
+D. BW = sqrt(fc2/fc1)
+
+Câu 84. Mạch dùng op-amp cộng đảo với các điện trở trọng số nhận các bit số vào là:
+A. ADC 4 bit
+*B. DAC 4 bit
+C. Khuếch đại không đảo
+D. Mạch tích phân
+
+Câu 85. Lý do chính dùng hồi tiếp âm trong op-amp là:
+A. Để tạo dao động
+*B. Để mạch làm việc tuyến tính và ổn định hơn
+C. Để tăng vô hạn độ lợi vòng hở
+D. Để làm ngõ vào hút dòng lớn
+
+Câu 86. Một mạch lọc tích cực thông cao bậc hai thường có roll-off xấp xỉ:
+A. -20 dB/dec
+B. 0 dB/dec
+C. -60 dB/dec
+*D. -40 dB/dec
+
+Câu 87. Trong ngữ cảnh mạch lọc, thuật ngữ pole gần nhất với:
+A. Độ lợi của op-amp
+*B. Số cực hay số khâu RC độc lập quyết định bậc lọc
+C. Độ rộng băng thông khi ghép song song
+D. Điện áp nguồn của mạch
+
+Câu 88. Mạch ổn áp Zener có VZ = 20V, R = 20 ohm, RL = 200 ohm, Vin = 30V. Nếu Zener còn làm việc đúng vùng ổn áp thì điện áp ra gần bằng:
+*A. 20V
+B. 30V
+C. 10V
+D. 400V
+
+Câu 89. Với JFET, việc đóng mở kênh dẫn dựa trên:
+A. Phân cực thuận chuyển tiếp pn
+*B. Phân cực nghịch chuyển tiếp pn
+C. Cấu trúc oxide cách điện như MOSFET tăng cường
+D. Dòng cổng rất lớn
+
+Câu 90. Với một hệ khuếch đại nhiều tầng, độ lợi điện áp toàn mạch được tính bởi:
+A. AV = Vo1 x Vo2
+B. AV = Vo1 x Vo2 x Vin
+*C. AV = Vout/Vin
+D. AV = Vin/Vout
+
+Câu 91. Trong mạch đa hài transistor, tại một thời điểm ổn định tức thời thường có:
+A. Hai transistor cùng hoạt động tuyến tính
+*B. Một transistor bão hòa, transistor kia ngắt
+C. Hai transistor cùng ngắt
+D. Hai transistor cùng bão hòa
+
+Câu 92. Nếu ghép nối tiếp hai mạch lọc bậc một giống nhau thì độ dốc vùng chặn gần đúng là:
+A. -10 dB/dec
+B. -20 dB/dec
+*C. -40 dB/dec
+D. -80 dB/dec
+
+Câu 93. Nếu bộ lọc thông dải có fL = 2 kHz và fH = 6 kHz thì băng thông là:
+A. 2 kHz
+*B. 4 kHz
+C. 8 kHz
+D. 12 kHz
+
+Câu 94. Tác dụng quan trọng khác của hồi tiếp âm ngoài việc tuyến tính hóa là:
+A. Làm mạch tự dao động dễ hơn
+B. Tăng vô hạn AOL
+*C. Giảm phụ thuộc vào độ lợi vòng hở và tăng ổn định
+D. Ép dòng ngõ vào lớn hơn
+
+Câu 95. Với op-amp thực tế tốt, đặc điểm gần đúng đúng là:
+*A. Trở vào lớn, trở ra nhỏ
+B. Trở vào nhỏ, trở ra lớn
+C. Trở vào bằng 0, trở ra vô cực
+D. Trở vào và trở ra đều rất lớn
+
+Câu 96. Một transistor có IC = 1.8 mA và beta = 90. Dòng base gần đúng là:
+A. 200 uA
+*B. 20 uA
+C. 2 mA
+D. 0.2 uA
+
+Câu 97. Diode được phân cực thuận khi:
+A. Cực dương nối vào N, cực âm nối vào P
+*B. Cực dương nối vào P, cực âm nối vào N
+C. Hai cực cùng nối đất
+D. Điện áp ngoài bằng 0
+
+Câu 98. Với lọc Butterworth bậc hai dạng đề thi, nếu tra bảng được R1/R2 = 0.586 và R2 = 2.7 kOhm thì R1 gần đúng là:
+*A. 1.58 kOhm
+B. 2.7 kOhm
+C. 4.61 kOhm
+D. 9.21 kOhm
+
+Câu 99. Mạch chỉnh lưu bán kỳ có tụ lọc, nếu dòng tải tăng gấp đôi còn các đại lượng khác giữ nguyên thì gần đúng độ gợn Vr(pp) sẽ:
+A. Giảm một nửa
+*B. Tăng gấp đôi
+C. Không đổi
+D. Tăng gấp bốn
+
+Câu 100. Với chỉnh lưu toàn kỳ dùng tụ lọc, nếu tần số lưới tăng từ 50 Hz lên 100 Hz thì độ gợn gần đúng sẽ:
+*A. Giảm một nửa
+B. Tăng gấp đôi
+C. Không đổi
+D. Giảm bốn lần
+
+Câu 101. Diode Zener có VZ = 12 V, PZmax = 600 mW. Dòng Zener cực đại gần đúng là:
+A. 12 mA
+B. 24 mA
+C. 36 mA
+*D. 50 mA
+
+Câu 102. Mạch ổn áp Zener có Vin = 18 V, VZ = 6 V, R = 240 ohm, bỏ qua tải. Dòng qua Zener gần đúng là:
+A. 10 mA
+B. 20 mA
+*C. 50 mA
+D. 75 mA
+
+Câu 103. Trong mạch diode lý tưởng nối tiếp với điện trở tải, khi diode bị phân cực nghịch thì điện áp trên tải gần đúng bằng:
+*A. 0 V
+B. Điện áp nguồn
+C. Điện áp ngưỡng diode
+D. Vô hạn
+
+Câu 104. Với mạch chỉnh lưu cầu, số diode dẫn trong mỗi nửa chu kỳ là:
+A. 1
+*B. 2
+C. 3
+D. 4
+
+Câu 105. Transistor BJT có beta = 100 và IB = 30 uA. Nếu đang ở vùng active thì IC gần đúng bằng:
+A. 0.3 mA
+B. 1.5 mA
+*C. 3 mA
+D. 30 mA
+
+Câu 106. Một BJT có IC = 2 mA và IB = 20 uA. Hệ số beta gần đúng là:
+A. 20
+B. 50
+*C. 100
+D. 200
+
+Câu 107. Trong mạch CE, nếu IB tăng thì điện áp collector VC thường:
+A. Tăng
+*B. Giảm
+C. Không đổi
+D. Đổi dấu
+
+Câu 108. Điểm Q của CE muốn đối xứng biên độ xoay chiều thường nên đặt:
+A. Sát vùng ngắt
+B. Sát vùng bão hòa
+*C. Gần giữa đường tải DC
+D. Ở mọi vị trí đều như nhau
+
+Câu 109. Nếu tụ bypass emitter đủ lớn, trong phân tích AC điện trở emitter bên ngoài sẽ:
+A. Tăng gấp đôi
+*B. Bị xem gần như ngắn mạch
+C. Bị xem như hở mạch
+D. Bằng beta RC
+
+Câu 110. Mạch CC thường được dùng làm tầng đệm vì:
+A. Có độ lợi áp rất lớn
+B. Có trở vào rất nhỏ
+*C. Có trở vào lớn và trở ra nhỏ
+D. Luôn đảo pha 180 do
+
+Câu 111. Trong mạch CB, đại lượng nào thường nhỏ nhất?
+A. Trở ra
+*B. Trở vào
+C. Độ lợi áp
+D. Điện áp nguồn
+
+Câu 112. Nếu IE = 2 mA thì điện trở emitter vi sai gần đúng r'e bằng:
+A. 5 ohm
+B. 8 ohm
+*C. 12.5 ohm
+D. 25 ohm
+
+Câu 113. JFET kênh N có IDSS = 8 mA, VP = -4 V, VGS = -2 V. Dòng ID gần đúng là:
+A. 1 mA
+B. 4 mA
+*C. 2 mA
+D. 8 mA
+
+Câu 114. Với JFET kênh N, khi VGS = 0 thì:
+A. ID = 0
+*B. ID = IDSS
+C. ID = VP
+D. Gate bắt đầu dẫn mạnh
+
+Câu 115. Với E-MOSFET kênh N, nếu VGS < VTH thì linh kiện ở:
+*A. Vùng cutoff
+B. Vùng triode
+C. Vùng saturation
+D. Vùng breakdown
+
+Câu 116. Với E-MOSFET kênh N, điều kiện vùng triode là:
+A. VGS < VTH
+B. VDS > VGS - VTH
+*C. VDS < VGS - VTH
+D. VDS = 0 với mọi trường hợp
+
+Câu 117. Nếu VTH = 2 V và VGS = 5 V, giá trị overdrive VOV = VGS - VTH bằng:
+A. 1 V
+B. 2 V
+*C. 3 V
+D. 7 V
+
+Câu 118. Trong self-bias JFET kênh N, điện trở source RS tạo ra:
+A. VGS > 0
+*B. VGS < 0
+C. IG > ID
+D. Gate dẫn mạnh
+
+Câu 119. Trong mạch CS dùng FET, tín hiệu ra thường:
+A. Cùng pha với tín hiệu vào
+*B. Ngược pha với tín hiệu vào
+C. Bằng 0 ở mọi tần số
+D. Chỉ có thành phần DC
+
+Câu 120. Thông số gm của FET cho biết:
+A. Điện trở ngõ vào
+B. Điện áp ngưỡng
+*C. Mức thay đổi dòng drain theo điện áp điều khiển
+D. Công suất cực đại
+
+Câu 121. Mạch op-amp đảo có Rin = 10 kOhm, Rf = 47 kOhm. Độ lợi gần đúng là:
+A. +4.7
+*B. -4.7
+C. -5.7
+D. +5.7
+
+Câu 122. Mạch op-amp không đảo có Rf = 18 kOhm, R1 = 2 kOhm. Độ lợi gần đúng là:
+A. 8
+B. 9
+*C. 10
+D. 19
+
+Câu 123. Trong mạch cộng đảo với ba đầu vào, nếu các điện trở vào bằng nhau thì đầu ra tỉ lệ với:
+A. Hiệu của ba đầu vào
+*B. Tổng đại số có dấu âm của ba đầu vào
+C. Tích của ba đầu vào
+D. Căn bậc hai tổng các đầu vào
+
+Câu 124. Comparator không hồi tiếp âm mạnh thường cho đầu ra:
+A. Luôn nằm trong vùng tuyến tính
+*B. Bão hòa về một trong hai mức nguồn
+C. Luôn bằng 0
+D. Chỉ có sóng sin
+
+Câu 125. Schmitt trigger hữu ích vì nó:
+A. Làm giảm trở vào
+B. Tạo tích phân
+*C. Tạo hysteresis chống nhiễu ngưỡng
+D. Biến op-amp thành DAC
+
+Câu 126. Nếu V+ > V- trong comparator cấp nguồn đối xứng và chưa bão hòa giới hạn khác, đầu ra có xu hướng:
+*A. Lên mức dương
+B. Xuống mức âm
+C. Bằng 0
+D. Không xác định
+
+Câu 127. Mạch theo áp dùng để:
+A. Khuếch đại áp lớn
+*B. Cách ly tải nhờ trở vào lớn và trở ra nhỏ
+C. Tạo roll-off lớn
+D. Tạo dao động Wien
+
+Câu 128. Nếu op-amp lý tưởng ở chế độ tuyến tính có hồi tiếp âm, dòng vào hai chân vào gần đúng là:
+*A. Bằng 0
+B. Bằng dòng ra
+C. Bằng nhau và khác 0 lớn
+D. Tùy ý không ràng buộc
+
+Câu 129. Mạch tích phân op-amp khi vào là điện áp DC lý tưởng sẽ cho đầu ra:
+A. Cũng là DC không đổi
+*B. Ramp tuyến tính theo thời gian
+C. Sóng sin
+D. Luôn bằng 0
+
+Câu 130. Mạch vi phân op-amp nhạy nhất với tín hiệu vào nào sau đây?
+A. Tín hiệu DC hằng
+B. Tín hiệu thay đổi rất chậm
+*C. Tín hiệu thay đổi nhanh
+D. Không phụ thuộc dạng vào
+
+Câu 131. Điều kiện Barkhausen về pha để dao động duy trì là tổng pha quanh vòng bằng:
+A. 90 do
+B. 180 do
+*C. 0 do hoặc 360 do
+D. 270 do
+
+Câu 132. Nếu trong mạch dao động biên độ vòng |Abeta| < 1 thì:
+A. Dao động tăng dần
+*B. Dao động tắt dần
+C. Dao động giữ nguyên
+D. Tần số tăng gấp đôi
+
+Câu 133. Với Wien bridge đối xứng, nếu R tăng gấp đôi còn C giữ nguyên thì f0 sẽ:
+A. Tăng gấp đôi
+*B. Giảm một nửa
+C. Giảm bốn lần
+D. Không đổi
+
+Câu 134. Bộ lọc RC bậc một có một pole nên độ dốc sau tần số cắt xấp xỉ:
+*A. -20 dB/dec
+B. -10 dB/dec
+C. -40 dB/dec
+D. 0 dB/dec
+
+Câu 135. Mắc ba tầng lọc thông thấp bậc một giống nhau nối tiếp sẽ cho roll-off gần đúng:
+A. -20 dB/dec
+B. -40 dB/dec
+*C. -60 dB/dec
+D. -80 dB/dec
+
+Câu 136. Một lọc thông cao bậc một có đặc điểm biên độ nào đúng?
+A. Phẳng ở thấp tần và suy giảm ở cao tần
+*B. Suy giảm ở thấp tần và phẳng ở cao tần
+C. Chỉ thông một tần số duy nhất
+D. Không có điểm cắt
+
+Câu 137. Trong bộ lọc thông dải, nếu fL tăng còn fH giữ nguyên thì băng thông sẽ:
+A. Tăng
+*B. Giảm
+C. Không đổi
+D. Đổi dấu
+
+Câu 138. Với bộ lọc thông dải, nếu Q lớn thì:
+A. Dải thông rộng hơn
+*B. Dải thông hẹp hơn và chọn lọc hơn
+C. Không còn tần số trung tâm
+D. Roll-off bằng 0
+
+Câu 139. Hàm truyền H(s) = 1/(1+sRC) tương ứng với:
+*A. Lọc thông thấp bậc một
+B. Lọc thông cao bậc một
+C. Lọc thông dải
+D. Mạch dao động
+
+Câu 140. Hàm truyền H(s) = sRC/(1+sRC) tương ứng với:
+A. Lọc thông thấp
+*B. Lọc thông cao
+C. Mạch cộng đảo
+D. Mạch chỉnh lưu
+
+Câu 141. Nếu một tín hiệu sin đi qua hệ tuyến tính bất biến với tần số nằm trong dải thông, đầu ra xác lập sẽ:
+A. Mất hoàn toàn dạng sin
+*B. Vẫn là sin cùng tần số nhưng đổi biên độ và pha
+C. Luôn thành sóng vuông
+D. Luôn tăng gấp đôi tần số
+
+Câu 142. Tại tần số cắt của lọc bậc một, công suất trên tải còn gần bằng:
+A. 100%
+B. 75%
+*C. 50%
+D. 25%
+
+Câu 143. Nếu |H(jw)| > 1 tại một dải tần thì:
+A. Mạch chắc chắn thụ động
+*B. Mạch có thể đang khuếch đại trong dải đó
+C. Pha luôn bằng 0
+D. Không thể có ở op-amp
+
+Câu 144. Mỗi zero bậc một trong đồ thị Bode biên độ sẽ làm độ dốc thay đổi gần đúng:
+A. -20 dB/dec
+*B. +20 dB/dec
+C. +10 dB/dec
+D. 0 dB/dec
+
+Câu 145. Nếu một mạch có hai pole trùng nhau tại cùng tần số gãy thì ngay sau tần số đó độ dốc gần đúng là:
+A. -20 dB/dec
+*B. -40 dB/dec
+C. -60 dB/dec
+D. 0 dB/dec
+
+Câu 146. Một mạch có fL = 100 Hz và fH = 10 kHz. Tần số trung tâm gần đúng là:
+A. 100 Hz
+*B. 1 kHz
+C. 5.05 kHz
+D. 9.9 kHz
+
+Câu 147. Với fL = 100 Hz và fH = 10 kHz, hệ số chất lượng gần đúng là:
+A. 0.01
+*B. 0.101
+C. 1
+D. 10
+
+Câu 148. Nếu mạch lọc active Sallen-Key bậc hai được ghép thêm một tầng RC bậc một nối tiếp thì bậc toàn mạch là:
+A. 1
+B. 2
+*C. 3
+D. 4
+
+Câu 149. Trong phân tích tần số, thay s = jw vào hàm truyền có ý nghĩa là:
+A. Chuyển sang miền thời gian
+*B. Khảo sát đáp ứng trên trục tần số điều hòa xác lập
+C. Tìm công suất cực đại
+D. Bỏ qua pha của hệ
+
+Câu 150. Nhận định nào đúng nhất về mối liên hệ giữa số pole và độ khó chặn ngoài dải?
+A. Số pole không ảnh hưởng vùng chặn
+B. Pole chỉ đổi pha, không đổi biên độ
+*C. Nhiều pole hơn thường cho vùng chặn dốc hơn và chặn mạnh hơn
+D. Chỉ zero mới quyết định khả năng lọc
